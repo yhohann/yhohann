@@ -3,3 +3,7 @@
 ## About me
 
 Escribir sobre nosotros...
+
+## Contact me
+
+Hacer el cierrre de la presentación, invitando a contactar...
